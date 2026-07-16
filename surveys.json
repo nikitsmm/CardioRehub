@@ -1,0 +1,96 @@
+{
+  "surveys": [
+    {
+      "id": "daily-wellbeing",
+      "version": 1,
+      "title": "Ежедневное самочувствие",
+      "description": "Короткая анкета на 1 минуту. Помогает врачу видеть динамику восстановления.",
+      "icon": "heart.text.square",
+      "frequency": "daily",
+      "questions": [
+        {
+          "id": "sys",
+          "type": "number",
+          "text": "Верхнее (систолическое) давление",
+          "unit": "мм рт.ст.",
+          "min": 70,
+          "max": 250,
+          "required": true
+        },
+        {
+          "id": "dia",
+          "type": "number",
+          "text": "Нижнее (диастолическое) давление",
+          "unit": "мм рт.ст.",
+          "min": 40,
+          "max": 150,
+          "required": true
+        },
+        {
+          "id": "pulse",
+          "type": "number",
+          "text": "Пульс",
+          "unit": "уд/мин",
+          "min": 30,
+          "max": 200,
+          "required": true
+        },
+        {
+          "id": "wellbeing",
+          "type": "scale",
+          "text": "Как вы себя чувствуете сегодня?",
+          "min": 1,
+          "max": 5,
+          "minLabel": "плохо",
+          "maxLabel": "отлично",
+          "required": true
+        },
+        {
+          "id": "breath",
+          "type": "single",
+          "text": "Была ли одышка?",
+          "options": [
+            "Нет",
+            "Только при нагрузке",
+            "В покое"
+          ],
+          "required": true
+        },
+        {
+          "id": "symptoms",
+          "type": "multi",
+          "text": "Что беспокоило за сутки?",
+          "hint": "Можно выбрать несколько или ничего",
+          "options": [
+            "Боль или тяжесть в груди",
+            "Отёки ног",
+            "Перебои в сердце",
+            "Головокружение",
+            "Плохой сон",
+            "Тревога"
+          ],
+          "required": false
+        },
+        {
+          "id": "meds",
+          "type": "yesno",
+          "text": "Приняли все назначенные лекарства вовремя?",
+          "required": true
+        },
+        {
+          "id": "activity",
+          "type": "yesno",
+          "text": "Выполняли физическую активность (прогулка, гимнастика)?",
+          "required": true
+        },
+        {
+          "id": "comment",
+          "type": "text",
+          "text": "Комментарий",
+          "hint": "Необязательно",
+          "required": false
+        }
+      ]
+    }
+  ]
+}
