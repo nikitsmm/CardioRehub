@@ -186,13 +186,66 @@
             },
             {
               "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/31nLfH5Km3u_Uw",
-              "hint": "исходные положения для дыхательных упражнений, рис. 5а"
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/-xVNq7l7_lJDdQ",
+              "hint": "Исходное положение правая рука на груди (для контроля). Во время вдоха грудная клетка поднимается вверх, а во время выдоха – опускается. Количество повторений – 5-6 раз"
+            },
+            {
+              "type": "text",
+              "value": "правая рука на груди (для контроля)"
             },
             {
               "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/7CLSCA7A70hjcA",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/Ss8P8StlW105pw",
+              "hint": "Положение 2 - грудное"
+            },
+            {
+              "type": "text",
+              "value": "Вдох - грудная клетка поднимается вверх, выдох – опускается"
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/fRvMwvNEXcGnWA",
+              "hint": "Исходное положение – руки на средних отделах грудной клетки. Во время вдоха грудная клетка расширяется в сторону, а во время выдоха слегка сдавливается руками, с произношением звука «с-с-с». Количество повторений – 5-6 раз."
+            },
+            {
+              "type": "text",
+              "value": "руки на средних отделах грудной клетки"
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/M4DLZ7t9d6uCFg",
               "hint": "исходные положения для дыхательных упражнений, рис. 5б"
+            },
+            {
+              "type": "text",
+              "value": "вдох - грудная клетка расширяется в сторону, выдох - слегка сдавливается руками, с произношением звука «с-с-с»."
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/_xGUsaFWGFQ6uQ",
+              "hint": "Во время вдоха плечи поднимаются вверх, а при выдохе медленно опускаются с произношением звука «у-у-у». Количество повторений – 5-6 раз"
+            },
+            {
+              "type": "text",
+              "value": "вдох - плечи поднимаются вверх, выдох - медленно опускаются с произношением звука «у-у-у»."
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/Dw2XTqb-SkPabw",
+              "hint": "Во время вдоха руки поднимаются вперёд (на уровнь плечевых суставов), а на выдохе медленно опускаются. Количество повторений – 5-6 раз."
+            },
+            {
+              "type": "text",
+              "value": "вдох - руки поднимаются вперёд (на уровнь плечевых суставов)"
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/Y2AplrR5NoFs8Q",
+              "hint": "исходные положения для дыхательных упражнений, рис. 5б"
+            },
+            {
+              "type": "text",
+              "value": "выдох - медленно опускаются"
             },
             {
               "type": "text",
@@ -200,22 +253,21 @@
             },
             {
               "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/mqo2-7LX0-5aqQ",
-              "hint": "исходные положения для дыхательных упражнений, рис. 5а"
-            },
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/r3TnkY3Ft4I6nA",
-              "hint": "исходные положения для дыхательных упражнений, рис. 5б"
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/XP19Z0_4UrN01w",
+              "hint": "Исходное положение: руки на животе. Во время вдоха передняя стенка живота выпячивается вперёд, а во время выдоха живот необходимо втягивать, надавливая на него руками.  Во время выдоха произносится звук «ш-ш-ш». Количество повторений – 5-6 раз."
             },
             {
               "type": "text",
-              "value": "## Третий вид дыхания!!! ДОРАБОТАТЬ 1!!\nРуку положите на живот. На вдохе живот выпячивается вперёд, на выдохе — втягивается. Вторая рука на груди контролирует её неподвижность."
+              "value": "руки на животе. Вдох - передняя стенка живота выпячивается вперёд"
             },
             {
               "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/MzhrWkD9cK59vg",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/oGT06MYNOA_knQ",
+              "hint": "Диафрагма 2"
+            },
+            {
+              "type": "text",
+              "value": "выдох - живот необходимо втягивать, надавливая на него руками"
             },
             {
               "type": "text",
