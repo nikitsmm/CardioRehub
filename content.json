@@ -185,53 +185,27 @@
               "value": "# Дыхание с акцентом на выдох\nПравильное дыхание восстанавливает объём лёгких, защищает от застоя и пневмонии, снижает пульс и тревогу.\n\n## Главное правило\nВыдох длиннее вдоха: вдох 2–3 секунды, выдох 4–5 секунд. За полным выдохом следует полноценный вдох.\n\n## Грудное дыхание\nПоложите руку на грудь. Вдох через нос — грудная клетка поднимается. Выдох через губы, сложенные трубочкой, — медленный и полный.\n"
             },
             {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/31nLfH5Km3u_Uw",
-              "hint": "исходные положения для дыхательных упражнений, рис. 5а"
-            }
-            ,
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/7CLSCA7A70hjcA",
-              "hint": "исходные положения для дыхательных упражнений, рис. 5б"
-            },
-            {
               "type": "text",
               "value": "# Диафрагмальное дыхание\nРуку положите на живот. На вдохе живот выпячивается вперёд, на выдохе — втягивается. Вторая рука на груди контролирует её неподвижность."
             },
             {
               "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/MzhrWkD9cK59vg",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/dD8NOl0srpJ1xw",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/OEN7NQLOo9RCrA",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/AtfNIHFsi1LdFQ",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
-            {
-              "type": "image",
-              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/lB1r0NJaMrF8zA",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
-            {
-              "type": "image",
               "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/mqo2-7LX0-5aqQ",
-              "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
-            },
+              "hint": "исходные положения для дыхательных упражнений, рис. 5а"
+            }
+            ,
             {
               "type": "image",
               "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/r3TnkY3Ft4I6nA",
+              "hint": "исходные положения для дыхательных упражнений, рис. 5б"
+            },
+            {
+              "type": "text",
+              "value": "# Третий вид дыхания!!! ДОРАБОТАТЬ!!\nРуку положите на живот. На вдохе живот выпячивается вперёд, на выдохе — втягивается. Вторая рука на груди контролирует её неподвижность."
+            },
+            {
+              "type": "image",
+              "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/MzhrWkD9cK59vg",
               "hint": "исходные положения для дыхательных упражнений, рис. 6-10"
             },
             {
@@ -257,7 +231,8 @@
               "type": "image",
               "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/kpTY2CWTE-smIA",
               "hint": "3-6 месяцев после операции"
-            },{
+            },
+            {
               "type": "image",
               "value": "https://getfile.dokpub.com/yandex/get/https://disk.yandex.ru/i/hiDgqKZ0BQBzHg",
               "hint": "6-12 месяцев после операции"
